@@ -1,0 +1,15 @@
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\bin\Debug\MySystem.exe.config
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\bin\Debug\MySystem.exe
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\bin\Debug\MySystem.pdb
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\obj\Debug\MySystem.csprojResolveAssemblyReference.cache
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\obj\Debug\MySystem.Properties.Resources.resources
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\obj\Debug\MySystem.csproj.GenerateResource.Cache
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\obj\Debug\MySystem.exe
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\obj\Debug\MySystem.pdb
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\obj\Debug\MySystem.Form1.resources
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\obj\Debug\Interop.ADODB.dll
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\obj\Debug\Interop.ADOX.dll
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\obj\Debug\MySystem.csproj.ResolveComReference.cache
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\bin\Debug\Interop.ADOX.dll
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\obj\Debug\MySystem.FormOfVisualize.resources
+e:\360data\重要数据\我的文档\visual studio 2012\Projects\MySystem\MySystem\obj\Debug\MySystem.FormOfCalculate.resources
